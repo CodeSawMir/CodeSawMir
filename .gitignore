@@ -20,3 +20,6 @@ photo.*
 
 # Build state used by the Makefile
 .cache/
+
+# graphify knowledge graph (local only)
+graphify-out/

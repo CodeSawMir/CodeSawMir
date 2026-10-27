@@ -186,5 +186,14 @@ class PortraitTest(unittest.TestCase):
         self.assertAlmostEqual(centre, 460, delta=16)
 
 
+class WorkspaceCardTest(unittest.TestCase):
+    def test_card_is_valid_svg_and_escapes_text(self):
+        from card import workspaces
+        svg = workspaces.card_svg("A & B", "<x>", b"png", PRESETS["github"]["dark"])
+        xml.dom.minidom.parseString(svg)
+        self.assertIn("A &amp; B", svg)
+        self.assertIn("&lt;x&gt;", svg)
+
+
 if __name__ == "__main__":
     unittest.main()

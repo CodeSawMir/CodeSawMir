@@ -70,27 +70,27 @@ text, tspan {white-space: pre;}
 <tspan x="24.0" y="554.0">            #+*=#%-;---;#*-=+%@%%%%%%%#+#%@@@@@-;;;##==-----=@%#*=:.,:*@%%%%%%%%</tspan>
 <tspan x="24.0" y="564.5">          #+*++#%#=+++==%++#@%#%%%%%%%#%%%@@@@@#+=;=#*+=====%%#+=++--=%@%%%%%%%%</tspan>
 </text>
-
+<text x="488" y="167.4" font-size="22px" text-anchor="start" fill="#953800" font-weight="bold">Hi, I&#x27;m Samir 👋</text>
 <text fill="#24292f" font-size="16px">
-<tspan x="488" y="191">shrestha@samir <tspan class="dots">-------------------------------------------------</tspan></tspan>
-<tspan x="488" y="211"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ....................................................... </tspan><tspan class="value">Me</tspan></tspan>
-<tspan x="488" y="231"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Myself</tspan></tspan>
-<tspan x="488" y="251"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">Powered by coffee</tspan></tspan>
-<tspan x="488" y="271"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................... </tspan><tspan class="value">Software Dev 1.0.0-LTS</tspan></tspan>
-<tspan x="488" y="291"><tspan class="dots">.</tspan></tspan>
-<tspan x="488" y="311"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">PHP, JS, TS, Python</tspan></tspan>
-<tspan x="488" y="331"><tspan class="dots">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">React, Next.js</tspan></tspan>
-<tspan x="488" y="351"><tspan class="dots">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">English</tspan></tspan>
-<tspan x="488" y="371"><tspan class="dots">.</tspan></tspan>
-<tspan x="488" y="391"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Coding anything &amp; everything</tspan></tspan>
-<tspan x="488" y="411"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Mind</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">Problem solving</tspan></tspan>
-<tspan x="488" y="431"><tspan class="dots">.</tspan></tspan>
-<tspan x="488" y="451"><tspan class="dots">- </tspan>Contact <tspan class="dots">------------------------------------------------------</tspan></tspan>
-<tspan x="488" y="471"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">contact.samirshrestha@gmail.com</tspan></tspan>
-<tspan x="488" y="491"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dots"> ........................................... </tspan><tspan class="value">CodeSawMir</tspan></tspan>
-<tspan x="488" y="511"><tspan class="dots">.</tspan></tspan>
-<tspan x="488" y="531"><tspan class="dots">- </tspan>Status <tspan class="dots">-------------------------------------------------------</tspan></tspan>
-<tspan x="488" y="551"><tspan class="dots">. </tspan><tspan class="key">Currently</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">learning++  // no overflow yet</tspan></tspan>
+<tspan x="488" y="202">shrestha@samir <tspan class="dots">-------------------------------------------------</tspan></tspan>
+<tspan x="488" y="222"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ....................................................... </tspan><tspan class="value">Me</tspan></tspan>
+<tspan x="488" y="242"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................................. </tspan><tspan class="value">Myself</tspan></tspan>
+<tspan x="488" y="262"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">Powered by coffee</tspan></tspan>
+<tspan x="488" y="282"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................... </tspan><tspan class="value">Software Dev 1.0.0-LTS</tspan></tspan>
+<tspan x="488" y="302"><tspan class="dots">.</tspan></tspan>
+<tspan x="488" y="322"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">PHP, JS, TS, Python</tspan></tspan>
+<tspan x="488" y="342"><tspan class="dots">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">React, Next.js</tspan></tspan>
+<tspan x="488" y="362"><tspan class="dots">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">English</tspan></tspan>
+<tspan x="488" y="382"><tspan class="dots">.</tspan></tspan>
+<tspan x="488" y="402"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Coding anything &amp; everything</tspan></tspan>
+<tspan x="488" y="422"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Mind</tspan>:<tspan class="dots"> ................................ </tspan><tspan class="value">Problem solving</tspan></tspan>
+<tspan x="488" y="442"><tspan class="dots">.</tspan></tspan>
+<tspan x="488" y="462"><tspan class="dots">- </tspan>Contact <tspan class="dots">------------------------------------------------------</tspan></tspan>
+<tspan x="488" y="482"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">contact.samirshrestha@gmail.com</tspan></tspan>
+<tspan x="488" y="502"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dots"> ........................................... </tspan><tspan class="value">CodeSawMir</tspan></tspan>
+<tspan x="488" y="522"><tspan class="dots">.</tspan></tspan>
+<tspan x="488" y="542"><tspan class="dots">- </tspan>Status <tspan class="dots">-------------------------------------------------------</tspan></tspan>
+<tspan x="488" y="562"><tspan class="dots">. </tspan><tspan class="key">Currently</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">learning++  // no overflow yet</tspan></tspan>
 </text>
 <text class="thought" x="108" y="198" font-size="12px" fill="#953800" style="--drift: -12px; animation-duration: 6.45s; animation-delay: -4.20s">∑</text>
 <text class="thought" x="120" y="188" font-size="16px" fill="#0a3069" style="--drift: -5px; animation-duration: 6.17s; animation-delay: -3.13s">π</text>

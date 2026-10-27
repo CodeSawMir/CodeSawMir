@@ -15,25 +15,25 @@
 
 <p align="center"><code>$ ls ~/workspaces</code></p>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/samir-created" title="Original projects I've built from scratch: tools, plugins and experiments that shipped."><img src="https://github.com/samir-created.png?size=128" alt="Samir Created" height="64" width="64"><br><b>Samir Created</b></a><br>
-      <sub><code>original</code></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/samir-explores" title="Experiments, prototypes and learning projects: trying new tools, languages and ideas."><img src="https://github.com/samir-explores.png?size=128" alt="Samir Explores" height="64" width="64"><br><b>Samir Explores</b></a><br>
-      <sub><code>experiments</code></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/samir-forked" title="Forks of other people's projects that I've modified, patched or am contributing back to."><img src="https://github.com/samir-forked.png?size=128" alt="Samir Forked" height="64" width="64"><br><b>Samir Forked</b></a><br>
-      <sub><code>forks</code></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/samir-archived" title="Retired projects, kept for reference. No longer maintained."><img src="https://github.com/samir-archived.png?size=128" alt="Samir Archived" height="64" width="64"><br><b>Samir Archived</b></a><br>
-      <sub><code>retired</code></sub>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/samir-created"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-created_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-created_light.svg">
+    <img alt="Samir Created" src="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-created_dark.svg" width="400">
+  </picture></a>
+  <a href="https://github.com/samir-explores"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-explores_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-explores_light.svg">
+    <img alt="Samir Explores" src="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-explores_dark.svg" width="400">
+  </picture></a>
+  <a href="https://github.com/samir-forked"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-forked_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-forked_light.svg">
+    <img alt="Samir Forked" src="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-forked_dark.svg" width="400">
+  </picture></a>
+  <a href="https://github.com/samir-archived"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-archived_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-archived_light.svg">
+    <img alt="Samir Archived" src="https://raw.githubusercontent.com/CodeSawMir/CodeSawMir/main/workspaces/samir-archived_dark.svg" width="400">
+  </picture></a>
+</p>

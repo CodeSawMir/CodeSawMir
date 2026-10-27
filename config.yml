@@ -8,11 +8,12 @@ title: shrestha@samir
 # Anything you like, shown just above the details: a greeting, a tagline, a quote, ASCII art.
 # Each entry is a string, or a map with text (or art) plus optional
 # color (text | key | value | dots), size (px), bold, align (left | center | right).
-# header:
-#   - text: "Hi, I'm Samir 👋"
-#     color: key
-#     size: 22
-#     bold: true
+header:
+  - text: "Hi, I'm Samir 👋"
+    color: key
+    size: 22
+    bold: true
+# More examples:
 #   - "Building plugins, agents & dev tools"
 #   - art: |
 #       ┌─┐┌─┐┌┬┐┬┬─┐
@@ -91,3 +92,18 @@ style:
 # themes:
 #   dark:  {bg: "#161b22", text: "#c9d1d9", key: "#ffa657", value: "#a5d6ff", dots: "#616e7f"}
 #   light: {bg: "#f6f8fa", text: "#24292f", key: "#953800", value: "#0a3069", dots: "#c2cfde"}
+
+# Linked cards for the README's workspaces row. Rebuild with: python -m card.workspaces
+workspaces:
+  - org: samir-created
+    title: Samir Created
+    excerpt: Original tools & plugins I've shipped
+  - org: samir-explores
+    title: Samir Explores
+    excerpt: Experiments, prototypes & learning
+  - org: samir-forked
+    title: Samir Forked
+    excerpt: Forks I've patched or contribute to
+  - org: samir-archived
+    title: Samir Archived
+    excerpt: Retired projects, kept for reference
