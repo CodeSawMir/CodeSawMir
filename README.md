@@ -13,3 +13,12 @@
   <a href="https://www.instagram.com/_samir.shrestha_/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="32" width="32"></a><br>
   <sub><code>while (alive) { learn(); build(); repeat(); }</code></sub>
 </p>
+
+<h3 align="center">Workspaces</h3>
+
+<p align="center">
+  <a href="https://github.com/samir-created"><img src="https://github.com/samir-created.png?size=64" alt="samir-created" title="samir-created: original projects" height="40" width="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/samir-explores"><img src="https://github.com/samir-explores.png?size=64" alt="samir-explores" title="samir-explores: experiments and prototypes" height="40" width="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/samir-forked"><img src="https://github.com/samir-forked.png?size=64" alt="samir-forked" title="samir-forked: modified forks" height="40" width="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/samir-archived"><img src="https://github.com/samir-archived.png?size=64" alt="samir-archived" title="samir-archived: retired projects" height="40" width="40"></a>
+</p>
