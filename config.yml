@@ -97,7 +97,7 @@ style:
 workspaces:
   - org: samir-created
     title: Samir Created
-    excerpt: Original tools & plugins I've shipped
+    excerpt: Open sourced and ready to use
   - org: samir-explores
     title: Samir Explores
     excerpt: Experiments, prototypes & learning
